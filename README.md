@@ -5,7 +5,6 @@
 - 🌱 Estou aprendendo Java
 - 👯 Procuro por novas pessoas que tenham interesse nas mesmas tecnologias
 - 💬 Contate-me via email: pachecogbi@outlook.com
-- ⚡ Fun fact: Sou mais velho do que aparento
 
 <div align="center">
   <a href="https://github.com/pachecogbi">
