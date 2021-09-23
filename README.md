@@ -13,9 +13,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Pedro-C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Pedro-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Pedro-MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/7LxZinFmHbEAAAAj/cute-derpy-duck.gif">
 </div>
   
