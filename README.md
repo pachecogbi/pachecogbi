@@ -1,6 +1,9 @@
 ### Opa, tranquilo? Me chamo João Pedro 🤙
-##
+<div style="display: inline_block"><br>
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
+</div>
 
+##
 
 - 🔭 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
 - 🌱 Estou aprendendo Java
