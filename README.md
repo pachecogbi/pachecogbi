@@ -5,8 +5,6 @@
 ##
 
 - 🔭 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
-- 🌱 Estou aprendendo Java
-- 👯 Procuro por novas pessoas que tenham interesse nas mesmas tecnologias
 - 💬 Contate-me via email: pachecogbi@outlook.com
 
 <div align="center">
