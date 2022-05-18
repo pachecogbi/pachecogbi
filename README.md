@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/pachecogbi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pachecogbi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecogbi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="60em" width="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecogbi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
