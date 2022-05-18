@@ -1,5 +1,5 @@
 ## Opa, tranquilo? Me chamo João Pedro 🤙
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 </div>
 
 #
