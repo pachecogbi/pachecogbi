@@ -31,7 +31,7 @@ Sou um programador PHP especializado em Laravel, com 2 anos de experiÃªncia na Ã
 
 ## Contato
 
-- [LinkedIn](www.linkedin.com/in/jp-pacheco/)
+- [LinkedIn](https://www.linkedin.com/in/jp-pacheco/)
 - [E-mail](joao.pacheco.dev@gmail.com)
 
 ---
