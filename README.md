@@ -1,6 +1,6 @@
 # Olá, eu sou o João Pacheco 👋
 
-Sou um programador PHP especializado em Laravel, com 2 anos de experiência na área. A tecnologia é minha paixão, e estou sempre em busca de novidades para aprimorar minhas habilidades. Atualmente, estou me aventurando no front-end para expandir meu conhecimento e criar soluções completas.
+Sou um programador PHP especializado em Laravel, com 4 anos de experiência na área. A tecnologia é minha paixão, e estou sempre em busca de novidades para aprimorar minhas habilidades. Atualmente, estou me aventurando no front-end para expandir meu conhecimento e criar soluções completas.
 
 ## Sobre Mim
 
