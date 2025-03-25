@@ -17,13 +17,7 @@ Sou um programador PHP especializado em Laravel, com 4 anos de experiência na �
 - PostgreSQL
 - Docker
 
----
-<div>
-        <img src="https://github-readme-stats.vercel.app/api?username=pachecogbi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecogbi&layout=compact&langs_count=6&theme=highcontrast" />
-</div>
-
-## Ferramentas já utilizadas
+## Ferramentas/Tecnologias já utilizadas
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
